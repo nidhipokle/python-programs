@@ -1,0 +1,29 @@
+Name: nidhi
+Mobile: 9876543210
+Email: nidhi@gmail.com
+----------------------
+Name: nidhi
+Mobile: 0987654321
+Email: nidhi@gmail.com
+----------------------
+Name: nidhi
+Mobile Number: 123456789
+Email: poklenidh@gmail.com
+Name: riya rane
+Mobile Number: 1122334455
+Email: rine@gmail.com
+Name: rine@gmail.com
+Mobile Number: 5566778899
+Email: het@gmail.com
+Name: Nidhi pokle
+Mobile Number: 8877665544
+Email: nid@gmail.com
+Name: Nidhi pokle
+Mobile Number: 9988776655
+Email: nid@gmail.com
+Name: rahul
+Mobile Number: 1122334455
+Email: rah@
+Name: 
+Mobile Number: 
+Email: 
